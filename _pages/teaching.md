@@ -12,4 +12,5 @@ nav_order: 5
 Organize your courses by years, topics, or universities, however you like! -->
 
 *  Teaching Assistant: 
-    * SP2022 CSE 520S: Real-Time Systems
+    * Spring 2022 CSE 520S: Real-Time Systems
+    * Fall 2023   CSE 521S: Wireless Sensor Networks

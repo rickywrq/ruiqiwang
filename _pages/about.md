@@ -24,6 +24,7 @@ news: true  # includes a list of news items
 <font size="4"> I am a thrid year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
 I joined Washington University in 2020. I earned my BSE degree in ECE and CE from University of Michigan, Ann Arbor and Shanghai Jiaotong University.
 <br>
+<div>
 My research focus is on edge computing, system ML and AI and IoT for Medicine.
 <br>
 <div>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://littlesi789.github.io/ruiqiwang_new/sitemap.xml
+Sitemap: https://littlesi789.github.io/ruiqiwang/sitemap.xml

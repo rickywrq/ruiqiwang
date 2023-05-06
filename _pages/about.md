@@ -8,20 +8,28 @@ profile:
   align: right
   image: w1.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
+    ruiqi{dot}w{at}wustl{dot}.com
     <p>McKelvey School of Engineering</p>
     <p>Washington University in St. Louis</p>
     <p>1 Brookings Drive</p>
     <p>St. Louis, MO 63130-4899</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# latest_posts: true  # includes a list of the newest posts
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<font size="4"> I am a thrid year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
+I joined Washington University in 2020. I earned my BSE degree in ECE and CE from University of Michigan, Ann Arbor and Shanghai Jiaotong University.
+<br>
+My research focus is on edge computing, system ML and AI and IoT for Medicine.
+<br>
+<div>
+
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

@@ -9,8 +9,7 @@ profile:
   image: w1.jpg
   image_circular: false # crops the image to make it circular
   address: 
-    ruiqi{dot}w{at}wustl{dot}.com
-    <p>McKelvey School of Engineering</p>
+    ruiqi▪️w﹫wustl▪️com
     <p>Washington University in St. Louis</p>
     <p>1 Brookings Drive</p>
     <p>St. Louis, MO 63130-4899</p>
@@ -18,10 +17,10 @@ profile:
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-<font size="4"> I am a thrid year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
+<font size="4"> I am a fourth year Ph.D. student advised by <a href="https://www.cse.wustl.edu/~lu/" target="_blank">Dr. Chenyang Lu</a>.</font>
 I joined Washington University in 2020. I earned my BSE degree in ECE and CE from University of Michigan, Ann Arbor and Shanghai Jiaotong University.
 <br>
 <div>

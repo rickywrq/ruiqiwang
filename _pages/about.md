@@ -27,6 +27,12 @@ I joined Washington University in 2020. I earned my BSE degree in ECE and CE fro
 My research focus is on edge computing, system ML and AI and IoT for Medicine.
 <br>
 <div>
+<div>
+See some artwork collections 🎨: <a href="https://gowustl-my.sharepoint.com/:p:/g/personal/ruiqi_w_wustl_edu/ETTwinfLm89PmKMkHNsyY_UBJq4tDWWxhOVAsHCDqchZVw?e=fnZpjb" target="_blank">Link</a>
+<br>
+<div>
+
+<!-- https://gowustl-my.sharepoint.com/:p:/g/personal/ruiqi_w_wustl_edu/ETTwinfLm89PmKMkHNsyY_UBJq4tDWWxhOVAsHCDqchZVw?e=fnZpjb -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

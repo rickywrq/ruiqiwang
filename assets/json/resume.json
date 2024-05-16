@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Ruiqi Wang",
+    "label": "Ph.D. Candidate in Computer Engineering",
+    "image": "",
+    "email": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "1 Brookings Dr",
+      "postalCode": "63130",
+      "city": "St. Louis",
+      "countryCode": "+1",
+      "region": "USA"
+    },
+    "profiles": []
+  },
+  "education": [{
+      "institution": "Washington University in St. Louis, St. Louis",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": [
+        "Advisor: Professor Chenyang Lu"
+      ]
+    },
+    {
+      "institution": "University of Michigan, College of Engineering, Ann Arbor",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science in Engineering",
+      "startDate": "2018-09-01",
+      "endDate": "2020-04-01",
+      "score": "GPA: 3.81/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Shanghai Jiao Tong University, UM – SJTU Joint Institute, Shanghai, China",
+      "url": "",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science in Engineering",
+      "startDate": "2016-09-01",
+      "endDate": "2020-08-01",
+      "score": "GPA: 3.74/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Instituto Tecnológico de Buenos Aires, Buenos Aires, Argentina",
+      "url": "",
+      "area": "",
+      "studyType": "Visit",
+      "startDate": "2017-12-01",
+      "endDate": "2018-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "work": [{
+    "name": "Washington University in St. Louis",
+    "position": "Summer Research Intern",
+    "url": "",
+    "startDate": "2019-06-01",
+    "endDate": "2019-08-01",
+    "summary": "Department of Electrical and System Engineering with Prof. Bruno Sinopoli and Dr. Sankalp Bhan",
+    "highlights": [
+      "Developed new course materials about linear control, system identification and linear state estimator for Washington University in St. Louis.",
+      "Independently developed model reference control and adaptive control algorithms for a parrot quadcopter.",
+      "Realized Indoor attitude and position tracking and estimation with OptiTrack infrared camera system."
+    ]
+  }],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [{
+    "name": "Languages",
+    "level": "",
+    "keywords": [
+      "Chinese",
+      "English",
+      "Spanish (Entry level)",
+      "German (Entry level)"
+    ]
+  },
+  {
+    "name": "Programming",
+    "level": "",
+    "keywords": [
+      "C",
+      "C++",
+      "Python",
+      "MATLAB",
+      "Verilog",
+      "LaTeX",
+      "Simulink",
+      "Windows",
+      "Linux"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Proficiency"
+  },
+  {
+    "language": "Chinese",
+    "fluency": "Proficiency"
+  },
+  {
+    "language": "Spanish",
+    "fluency": "Entry level"
+  },
+  {
+    "language": "German",
+    "fluency": "Entry level"
+  }],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "teaching": [{
+    "name": "Teaching Assistant",
+    "value": "Spring 2022 CSE 520S: Real-Time Systems"
+  },
+  {
+    "name": "Teaching Assistant",
+    "value": "Fall 2023 CSE 521S: Wireless Sensor Networks"
+  }]
+}

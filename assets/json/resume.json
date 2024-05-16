@@ -59,6 +59,12 @@
       "courses": []
     }
   ],
+  "awards": [{
+    "title": "Best Student Paper Award ",
+    "date": "2023-12",
+    "awarder": "IEEE Real-Time Systems Symposium (RTSS'23)",
+    "summary": "[Paper] Progressive Neural Compression for Adaptive Image Offloading under Timing Constraints"
+  }],
   "work": [{
     "name": "Washington University in St. Louis",
     "position": "Summer Research Intern",
@@ -73,19 +79,9 @@
     ]
   }],
   "volunteer": [],
-  "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [{
-    "name": "Languages",
-    "level": "",
-    "keywords": [
-      "Chinese",
-      "English",
-      "Spanish (Entry level)",
-      "German (Entry level)"
-    ]
-  },
+  "skills": [
   {
     "name": "Programming",
     "level": "",
@@ -108,14 +104,6 @@
   {
     "language": "Chinese",
     "fluency": "Proficiency"
-  },
-  {
-    "language": "Spanish",
-    "fluency": "Entry level"
-  },
-  {
-    "language": "German",
-    "fluency": "Entry level"
   }],
   "interests": [],
   "references": [],

@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rickywrq
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - rickywrq/White-Blood-Cell-Classification-and-TSNE-Visualization
+  - rickywrq/Progressive-Neural-Compression
+  - rickywrq/check-GPU

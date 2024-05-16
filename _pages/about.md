@@ -7,16 +7,14 @@ subtitle: Ph.D. student at <a href='https://cse.wustl.edu/'>Computer Science & E
 profile:
   align: right
   image: w1.jpg
-  image_circular: false # crops the image to make it circular
-  address: 
+  image_circular: true # crops the image to make it circular
+  more_info: 
     ruiqi▪️w﹫wustl▪️com
     <p>Washington University in St. Louis</p>
-    <p>1 Brookings Drive</p>
-    <p>St. Louis, MO 63130-4899</p>
 
 news: true  # includes a list of news items
-# latest_posts: true  # includes a list of the newest posts
-# selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -24,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I joined Washington University in 2020. I earned my BSE degree in ECE and CE from University of Michigan, Ann Arbor and Shanghai Jiaotong University.
 <br>
 <div>
-My research focus is on edge computing, system ML and AI and IoT for Medicine.
+My research focus is on edge computing, system ML and AI and IoT for Medicine. 
 <br>
 <div>
 <div>

@@ -1,28 +1,39 @@
 ---
 ---
-@misc{wang2023progressive,
-    title={Progressive Neural Compression for Adaptive Image Offloading under Timing Constraints}, 
-    author={Ruiqi Wang and Hanyang Liu and Jiaming Qiu and Moran Xu and Roch Guerin and Chenyang Lu},
+
+@INPROCEEDINGS{10405983,
+    author={Wang, Ruiqi and Liu, Hanyang and Qiu, Jiaming and Xu, Moran and Guérin, Roch and Lu, Chenyang},
+    booktitle={2023 IEEE Real-Time Systems Symposium (RTSS)}, 
+    title={Progressive Neural Compression for Adaptive Image Offloading Under Timing Constraints}, 
     year={2023},
-    archivePrefix={arXiv},
-    primaryClass={cs.DC},
+    volume={},
+    number={},
+    pages={118-130},
+    keywords={Performance evaluation;Image coding;Image edge detection;Bandwidth;Timing;Internet of Things;Servers;neural compression;edge offloading;image classification;real-time transmission},
+    doi={10.1109/RTSS59052.2023.00020},
     abstract={IoT devices are increasingly the source of data for machine learning (ML) applications running on edge servers. Data transmissions from devices to servers are often over local wireless networks whose bandwidth is not just limited but, more importantly, variable. Furthermore, in cyber-physical systems interacting with the physical environment, image offloading is also commonly subject to timing constraints. It is, therefore, important to develop an adaptive approach that maximizes the inference performance of ML applications under timing constraints and the resource constraints of IoT devices. In this paper, we use image classification as our target application and propose progressive neural compression (PNC) as an efficient solution to this problem. Although neural compression has been used to compress images for different ML applications, existing solutions often produce fixed-size outputs that are unsuitable for timing-constrained offloading over variable bandwidth. To address this limitation, we train a multi-objective rateless autoencoder that optimizes for multiple compression rates via stochastic taildrop to create a compression solution that produces features ordered according to their importance to inference performance. Features are then transmitted in that order based on available bandwidth, with classification ultimately performed using the (sub)set of features received by the deadline. We demonstrate the benefits of PNC over state-of-the-art neural compression approaches and traditional compression methods on a testbed comprising an IoT device and an edge server connected over a wireless network with varying bandwidth.},
-    abbr={RTSS 2023},
-    html={https://arxiv.org/abs/2310.05306},
-    preview={2023_rtss_pnc.png},
     arxiv={2310.05306},
     selected={true},
+    preview={2023_rtss_pnc.png},
+    abbr={RTSS 2023},
+    html={https://ieeexplore.ieee.org/abstract/document/10405983},
+    bibtex_show={true},
+    award={Best Student Paper Award},
+    code={https://github.com/rickywrq/Progressive-Neural-Compression},
+
 }
 
-@article{vazquez guillamet_rjob_zhang_dai_wang_damulira_hamauon_candell_kwon_babcock_et al._2023, 
+
+@article{guillamet2024leveraging, 
 title={Leveraging Bluetooth low-energy technology to improve contact tracing among healthcare personnel in hospital setting during the coronavirus disease 2019 (COVID-19) pandemic}, 
+volume={45}, 
 DOI={10.1017/ice.2023.227}, 
-journal={Infection Control &amp; Hospital Epidemiology}, 
-publisher={Cambridge University Press}, 
+number={4}, 
+journal={Infection Control &#38; Hospital Epidemiology}, 
 author={Vazquez Guillamet, M. Cristina and Rjob, Ashraf and Zhang, Jingwen and Dai, Ruixuan and Wang, Ruiqi and Damulira, Christopher and Hamauon, Reshad and Candell, Jeff and Kwon, Jennie H. and Babcock, Hilary and et al.}, 
-year={2023}, 
-pages={1–3},
-html={https://doi.org/10.1017/ice.2023.227},
+year={2024}, 
+pages={546–548},
+html={https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/abs/leveraging-bluetooth-lowenergy-technology-to-improve-contact-tracing-among-healthcare-personnel-in-hospital-setting-during-the-coronavirus-disease-2019-covid19-pandemic/280B05C842EC0071FA67FE1C4BD43930},
 preview={infection-control-and-hospital-epidemiology.jpg},
 abstract={To improve contact tracing for healthcare workers, we built and configured a Bluetooth low-energy system. We predicted close contacts with great accuracy and provided an additional contact yield of 14.8%. This system would decrease the effective reproduction number by 56% and would unnecessarily quarantine 0.74% of employees weekly.}
 }
@@ -47,11 +58,12 @@ abstract={To improve contact tracing for healthcare workers, we built and config
     keywords = {Internet of things (IoT), Bluetooth Low Energy, Contact Tracing, Covid-19},
     html={https://dl.acm.org/doi/10.1145/3610924},
     preview={2023_ubicomp_ct.png},
-    selected={true}
+    selected={true},
+    bibtex_show={true},
 }
 
 @article{article,
-    abbr={IEEE TCAD},
+    abbr={EMSOFT 2022},
     author = {Qiu, Jiaming and Wang, Ruiqi and Chakrabarti, Ayan and Guerin, Roch and Lu, Chenyang},
     year = {2022},
     month = {11},
@@ -64,4 +76,7 @@ abstract={To improve contact tracing for healthcare workers, we built and config
     html={https://ieeexplore.ieee.org/document/9852802},
     preview={2022_dqn.png},
     arxiv={2208.00485},
+    code={https://github.com/qiujiaming315/edgeml-dqn},
+    bibtex_show={true},
+    selected={true},
 }

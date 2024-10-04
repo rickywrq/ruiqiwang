@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://rickywrq.github.io//ruiqiwang/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rickywrq.github.io//ruiqiwang/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-10-04T01:59:07+00:00</updated><id>https://rickywrq.github.io//ruiqiwang/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://rickywrq.github.io//ruiqiwang/feed.xml" rel="self" type="application/atom+xml" /><link href="https://rickywrq.github.io//ruiqiwang/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-10-04T02:34:33+00:00</updated><id>https://rickywrq.github.io//ruiqiwang/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with tabs</title><link href="https://rickywrq.github.io//ruiqiwang/sample-posts/2024/05/01/tabs.html" rel="alternate" type="text/html" title="a post with tabs" /><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://rickywrq.github.io//ruiqiwang/sample-posts/2024/05/01/tabs</id><content type="html" xml:base="https://rickywrq.github.io//ruiqiwang/sample-posts/2024/05/01/tabs.html"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p>
 
 <h2 id="first-tabs">First tabs</h2>
@@ -24,7 +24,7 @@ Content 2
 
 <p>With this you can generate visualizations like:</p>
 
-<ul id="log" class="tab" data-tab="55936d73-194b-4c9c-bd9d-bca07f1abfbe" data-name="log">
+<ul id="log" class="tab" data-tab="96c31770-c509-412f-80c7-13601d1b58aa" data-name="log">
   
       <li class="active" id="log-php">
           <a href="#">php </a>
@@ -39,7 +39,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="55936d73-194b-4c9c-bd9d-bca07f1abfbe" data-name="log">
+<ul class="tab-content" id="96c31770-c509-412f-80c7-13601d1b58aa" data-name="log">
   
       <li class="active">
 <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
@@ -63,7 +63,7 @@ Content 2
 
 <h2 id="another-example">Another example</h2>
 
-<ul id="data-struct" class="tab" data-tab="45d76b89-a23f-4dff-8cfd-f8557d48879b" data-name="data-struct">
+<ul id="data-struct" class="tab" data-tab="502154d5-d635-4c55-b502-89c1ab379733" data-name="data-struct">
   
       <li class="active" id="data-struct-yaml">
           <a href="#">yaml </a>
@@ -74,7 +74,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="45d76b89-a23f-4dff-8cfd-f8557d48879b" data-name="data-struct">
+<ul class="tab-content" id="502154d5-d635-4c55-b502-89c1ab379733" data-name="data-struct">
   
       <li class="active">
 <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
@@ -96,7 +96,7 @@ Content 2
 
 <h2 id="tabs-for-something-else">Tabs for something else</h2>
 
-<ul id="something-else" class="tab" data-tab="b5b8d253-93fe-4f79-bf91-9eb27db84296" data-name="something-else">
+<ul id="something-else" class="tab" data-tab="2ba8f1e9-ca91-407a-a064-fd2ab916246b" data-name="something-else">
   
       <li class="active" id="something-else-text">
           <a href="#">text </a>
@@ -111,7 +111,7 @@ Content 2
       </li>
   
 </ul>
-<ul class="tab-content" id="b5b8d253-93fe-4f79-bf91-9eb27db84296" data-name="something-else">
+<ul class="tab-content" id="2ba8f1e9-ca91-407a-a064-fd2ab916246b" data-name="something-else">
   
       <li class="active">
 <p>Regular text</p>
